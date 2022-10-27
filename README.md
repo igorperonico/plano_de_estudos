@@ -21,13 +21,13 @@ Metas do mês de outubro:
 - [x] Introdução a plataforma Java (18/10/2022)
 - [x] Ambiente de desenvolvimento Java (18/10/2022)
 - [x] Aprendendo a Sintaxe Java  (20/10/2022)
-- [ ] Lógica Condicional e Controle de Fluxos em Java  (22/10/2022)
-- [ ] Estruturas de Repetição e Arrays em Java  (22/10/2022)
-- [ ] Entendendo Métodos Java  (22/10/2022)
+- [x] Lógica Condicional e Controle de Fluxos em Java  (22/10/2022)
+- [x] Estruturas de Repetição e Arrays em Java  (22/10/2022)
+- [x] Entendendo Métodos Java  (22/10/2022)
 
 Metas do mês de outubro: 
 - [x] Módulo 1 - Principios de Desenvolvimento de Software (17/10/2022)
-- [ ] Módulo 2 - Conhecendo a Linguagem de Programação Java (23/10/2022)
+- [x] Módulo 2 - Conhecendo a Linguagem de Programação Java (23/10/2022)
 - [x] Módulo 3 - Dominando Algoritmos Básicos com Desafios de Código Java (25/11/2022)
 - [ ] Módulo 4 - Programação Orientada a Objetos com Java (01/11/2022)
 - [ ] Módulo 5 - Ganhando Produtividade com Spring Framework  (10/11/2022)
