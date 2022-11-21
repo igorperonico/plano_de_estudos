@@ -29,16 +29,16 @@ Metas do mês de outubro:
 - [x] Módulo 1 - Principios de Desenvolvimento de Software (17/10/2022)
 - [x] Módulo 2 - Conhecendo a Linguagem de Programação Java (23/10/2022)
 - [x] Módulo 3 - Dominando Algoritmos Básicos com Desafios de Código Java (25/11/2022)
-- [ ] Módulo 4 - Programação Orientada a Objetos com Java (01/11/2022)
-- [ ] Módulo 5 - Ganhando Produtividade com Spring Framework  (10/11/2022)
-- [ ] Módulo 6 - Dominando Algoritmos Intermediários com Desafios de Código Java (20/11/2022)
-- [ ] Módulo 7 - Fortalecendo sua Carreira Profissional (20/11/2022)
+- [x] Módulo 4 - Programação Orientada a Objetos com Java (01/11/2022)
+- [x] Módulo 5 - Ganhando Produtividade com Spring Framework  (10/11/2022)
+- [x] Módulo 6 - Dominando Algoritmos Intermediários com Desafios de Código Java (20/11/2022)
+- [x] Módulo 7 - Fortalecendo sua Carreira Profissional (20/11/2022)
 
 Tasks para continuar evoluindo:
 
 - [x] Começar a estudar Java
-- [ ] Assista ao curso
-- [ ] Faça anotações
-- [ ] Faça os projetos sozinho
-- [ ] Tire as dúvidas
-- [ ] Done! 🎉
+- [x] Assista ao curso
+- [x] Faça anotações
+- [x] Faça os projetos sozinho
+- [x] Tire as dúvidas
+- [x] Done! 🎉
